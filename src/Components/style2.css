@@ -1,0 +1,30 @@
+.body{
+    color:white;
+    background:rgb(24, 24, 24);
+}
+.header{
+    box-shadow:0 5px 5px bisque;
+    border-bottom:10px bisque;
+}
+.my_col{
+    background:white;
+    color :black;
+    
+}
+.my_col_header{
+    background:bisque;
+    color:black;
+    margin-top:0px;
+    margin-bottom:0px;
+    font-weight:700;
+}
+.p_header{
+    font-weight:700;
+}
+
+.my_row{
+    box-shadow: rgba(0, 0, 0, 0.653) 0px 5px 15px;
+    background:white;
+    border-radius:20px;
+    padding:0px;
+}
